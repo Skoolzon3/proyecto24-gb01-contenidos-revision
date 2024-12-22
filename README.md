@@ -13,6 +13,14 @@ Se modifican los siguientes aspectos:
 
 ## Resolución de la evaluación
 
-Progreso del número de errores, tras realizarse las actividades anteriores
+### Progreso del número de errores, tras realizarse las actividades anteriores
 
 ![image](https://github.com/user-attachments/assets/fb47f9c0-5243-4a66-aec2-6062742c4dc6)
+
+Enlace al proyecto en SonarCloud: https://sonarcloud.io/project/overview?id=Skoolzon3_proyecto24-gb01-contenidos-revision
+
+### Ejemplo de progreso registrado en Jira
+
+![image](https://github.com/user-attachments/assets/68a587b2-2015-4a59-b401-06cb2640ed6a)
+
+Enlace al proyecto en Jira: https://gb01.atlassian.net/jira/software/projects/GG/boards/2
